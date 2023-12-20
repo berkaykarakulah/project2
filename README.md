@@ -2,4 +2,4 @@
 
 # Project2 .. 
 
-<img src="proje-photo.png">
+<img src="proje-photo-full.PNG">
