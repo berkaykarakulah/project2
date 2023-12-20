@@ -53,6 +53,8 @@ button{
     border: 1px solid #fff;
     color: #fff;
     cursor: pointer;
+    right: 65px;
+    position: relative;
     transition: all 0.3s ease;
 }
 button:hover{
